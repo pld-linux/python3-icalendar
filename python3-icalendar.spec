@@ -2,7 +2,7 @@
 Summary:	iCalendar parser/generator
 Name:		python3-%{module}
 Version:	5.0.7
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Languages/Python
 #Source0Download: https://pypi.org/simple/icalendar/
